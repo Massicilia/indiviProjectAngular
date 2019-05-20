@@ -1,0 +1,25 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "pokemon",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Massicilia/indiviProjectAngular.git"
+  },
+  "author": "celia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Massicilia/indiviProjectAngular/issues"
+  },
+  "homepage": "https://github.com/Massicilia/indiviProjectAngular#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.5"
+  }
+}
