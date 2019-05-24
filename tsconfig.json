@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "compilerOptions": {
     "module": "commonjs",
@@ -9,4 +10,17 @@
   "include": [
     "src/**/*"
   ]
+=======
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "outDir": "dist"
+  },
+  "include": [
+    "src/**/*"
+  ]
+>>>>>>> c3f1a1b1e881200f2ddccfe8e020f3781b2bd372
 }
